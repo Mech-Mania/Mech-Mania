@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src='./public/mechmania.svg' width='200' height=200 /> 
+  <img src='./public/mechmania.png' width='400'  /> 
   <h1>
     Where Metal Meets Mind
   </h1>
