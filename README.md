@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src='./public/mechmania.png' width='400'  /> 
-  <h1>
-    Where Metal Meets Mind
-  </h1>
+  <img src='./public/mechmania.png' width='70%'  /> 
 </div>
+
+<br>
+<br>
 
 ## 👋 Hi there! 👋
 
