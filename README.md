@@ -1,11 +1,10 @@
-<div align='center' style='display:flex;content-align:center'>
-<img align='left' src='./public/mechmania.svg' width='200' height=200 style='display:inline-block' /> 
 
-
- <h1 align='center' style='font-size:3em;padding-left:20px;margin:auto'>Where Metal Meets Mind
- </h1>
+<div align="center">
+  <img src='./public/mechmania.svg' width='200' height=200 /> 
+  <h1>
+    Where Metal Meets Mind
+  </h1>
 </div>
-
 
 ## 👋 Hi there! 👋
 
